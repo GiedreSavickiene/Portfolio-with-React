@@ -19,6 +19,7 @@
     --color-light: rgba(255,255,255, 0.6); */
     
     --color-bg: rgb(14, 26, 41);
+
     --color-bg-variant: #2c2c6c;
     --color-primary: rgb(16, 182, 198);
     --color-primary-variant: rgba(77, 181, 255, 0.4);
@@ -46,6 +47,9 @@ body{
     color: var(--color-white);
     line-height: 1.7;
     background-image: url(../src/assets/bacground-texture.png);
+    background-position: center;
+    background-size: cover;
+    
     
 }
 /*-------General styles --------*/
@@ -63,6 +67,7 @@ h1{
 }
 section{
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h1, section > h5 {

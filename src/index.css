@@ -20,7 +20,7 @@
     
     --color-bg: rgb(14, 26, 41);
 
-    --color-bg-variant: #2c2c6c;
+    --color-bg-variant: rgb(39, 60, 87);
     --color-primary: rgb(16, 182, 198);
     --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #fff;
@@ -78,6 +78,7 @@ section > h1, section > h5 {
 section > h2 {
     color: var(--color-primary);
     margin-bottom: 3rem;
+    text-align: center;
 }
 
 .text-light {

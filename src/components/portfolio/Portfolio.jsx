@@ -19,7 +19,7 @@ const Portfolio = () => {
           <h3>Budget calculator </h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com/GiedreSavickiene/Expence-Tracker" className='btn'>Github</a>
-          <a href=" https://giedresavickiene.github.io/Expence-Tracker/" className='btn brn-primary' target="_blank">Live Demo</a>
+          <a href=" https://giedresavickiene.github.io/Expence-Tracker/" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
 
@@ -30,7 +30,7 @@ const Portfolio = () => {
           <h3>Search Movie </h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com/GiedreSavickiene/Build-MovieSearch-Engine" className='btn'>Github</a>
-          <a href=" https://giedresavickiene.github.io/Build-MovieSearch-Engine/" className='btn brn-primary' target="_blank">Live Demo</a>
+          <a href=" https://giedresavickiene.github.io/Build-MovieSearch-Engine/" className='btn btn-primary' target="_blank">Live Demo</a>
         </div>
         </article>
 
@@ -41,7 +41,7 @@ const Portfolio = () => {
           <h3>Web Designe </h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com/GiedreSavickiene/Coming-soon" className='btn'>Github</a>
-          <a href=" https://giedresavickiene.github.io/Coming-soon/" className='btn brn-primary' target="_blank">Live Demo</a>
+          <a href=" https://giedresavickiene.github.io/Coming-soon/" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
 
@@ -52,7 +52,7 @@ const Portfolio = () => {
           <h3>Portfolio with HTML and CSS</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com/GiedreSavickiene/Portfolio-with-HTML-ant-CSS" className='btn'>Github</a>
-          <a href=" https://giedresavickiene.github.io/Portfolio-with-HTML-ant-CSS/" className='btn brn-primary' target="_blank">Live Demo</a>
+          <a href=" https://giedresavickiene.github.io/Portfolio-with-HTML-ant-CSS/" className='btn btn-primary' target="_blank">Live Demo</a>
          </div>
         </article>
 

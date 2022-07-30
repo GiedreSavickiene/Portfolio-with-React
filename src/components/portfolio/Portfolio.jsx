@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from './img/expences.jpg'
 import IMG2 from './img/Movie.jpg'
-import IMG3 from './img/ComingSoon.jpg'
+import IMG3 from './img/Restorant.png'
 import IMG4 from './img/Portfolio.jpg'
 
 const Portfolio = () => {
@@ -38,10 +38,10 @@ const Portfolio = () => {
           <div className='portfolio_item-image'>
           <img src={IMG3} alt="Expences" />
           </div>
-          <h3>Web Designe </h3>
+          <h3>Restaurant Menu </h3>
           <div className='portfolio_item-cta'>
-          <a href="https://github.com/GiedreSavickiene/Coming-soon" className='btn'>Github</a>
-          <a href=" https://giedresavickiene.github.io/Coming-soon/" className='btn btn-primary' target="_blank">Live Demo</a>
+          <a href="https://github.com/GiedreSavickiene/Restaurant-meniu" className='btn'>Github</a>
+          <a href="https://giedresavickiene.github.io/Restaurant-meniu/" className='btn btn-primary' target="_blank" rel="noreferrer">Live Demo</a>
           </div>
         </article>
 

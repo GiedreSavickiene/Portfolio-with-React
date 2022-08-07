@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-with-React/static/css/main.323b63c7.css",
-    "main.js": "/Portfolio-with-React/static/js/main.674af7bd.js",
+    "main.js": "/Portfolio-with-React/static/js/main.8c3cebef.js",
     "static/media/bacground-texture.png": "/Portfolio-with-React/static/media/bacground-texture.bdacdc7b85a8c25e8612.png",
     "static/media/Movie.jpg": "/Portfolio-with-React/static/media/Movie.9a80715a148704a77b18.jpg",
+    "static/media/Web_designe.png": "/Portfolio-with-React/static/media/Web_designe.ab72804f1f0c0da5303d.png",
     "static/media/kindpng_41649.png": "/Portfolio-with-React/static/media/kindpng_41649.fe69040ae6fa0c855912.png",
     "static/media/Restorant.png": "/Portfolio-with-React/static/media/Restorant.cd36daed161c84db6214.png",
     "static/media/expences.jpg": "/Portfolio-with-React/static/media/expences.20b367ef9f0175a4240e.jpg",
-    "static/media/Giedre.Savickiene_CV.pdf": "/Portfolio-with-React/static/media/Giedre.Savickiene_CV.551182f66017ebdf7576.pdf",
+    "static/media/Giedre.Savickiene_CV.pdf": "/Portfolio-with-React/static/media/Giedre.Savickiene_CV.9c223043d5857acf953f.pdf",
     "static/media/Portfolio.jpg": "/Portfolio-with-React/static/media/Portfolio.781de44dd6b674acf63d.jpg",
     "static/media/web-developer.jpg": "/Portfolio-with-React/static/media/web-developer.2cb2a15af6c9546c9895.jpg",
     "index.html": "/Portfolio-with-React/index.html",
     "main.323b63c7.css.map": "/Portfolio-with-React/static/css/main.323b63c7.css.map",
-    "main.674af7bd.js.map": "/Portfolio-with-React/static/js/main.674af7bd.js.map"
+    "main.8c3cebef.js.map": "/Portfolio-with-React/static/js/main.8c3cebef.js.map"
   },
   "entrypoints": [
     "static/css/main.323b63c7.css",
-    "static/js/main.674af7bd.js"
+    "static/js/main.8c3cebef.js"
   ]
 }

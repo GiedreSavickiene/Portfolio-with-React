@@ -4,6 +4,7 @@ import IMG1 from './img/expences.jpg'
 import IMG2 from './img/Movie.jpg'
 import IMG3 from './img/Restorant.png'
 import IMG4 from './img/Portfolio.jpg'
+import IMG5 from './img/Web_designe.png'
 
 const Portfolio = () => {
   return (
@@ -53,6 +54,17 @@ const Portfolio = () => {
           <div className='portfolio_item-cta'>
           <a href="https://github.com/GiedreSavickiene/Portfolio-with-HTML-ant-CSS" className='btn'>Github</a>
           <a href=" https://giedresavickiene.github.io/Portfolio-with-HTML-ant-CSS/" className='btn btn-primary' target="_blank">Live Demo</a>
+         </div>
+        </article>
+
+        <article className='portfolio_item'>
+          <div className='portfolio_item-image'>
+          <img src={IMG5} alt="Expences" />
+          </div>
+          <h3>Restaurant Web Designe React</h3>
+          <div className='portfolio_item-cta'>
+          <a href="https://github.com/GiedreSavickiene/Restaurant-Web-Designe" className='btn'>Github</a>
+          <a href="https://giedresavickiene.github.io/Restaurant-Web-Designe/" className='btn btn-primary' target="_blank" rel="noreferrer">Live Demo</a>
          </div>
         </article>
 
